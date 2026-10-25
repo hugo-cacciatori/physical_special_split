@@ -1,0 +1,11 @@
+{
+  "id": "physical_special_split",
+  "name": "Physical/Special Split",
+  "version": "0.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "games": ["all"],
+  "permissions": ["engine_internals"],
+  "description": "Applies the modern Generation 4+ Physical/Special split to move damage calculations across all generations.",
+  "author": "Hugo Cacciatori"
+}
